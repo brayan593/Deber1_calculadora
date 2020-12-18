@@ -1,0 +1,13 @@
+D:\Archivos de programa\Excepciones\ExcepcionesTrabajo\bin\Debug\netcoreapp3.1\ExcepcionesTrabajo.exe
+D:\Archivos de programa\Excepciones\ExcepcionesTrabajo\bin\Debug\netcoreapp3.1\ExcepcionesTrabajo.deps.json
+D:\Archivos de programa\Excepciones\ExcepcionesTrabajo\bin\Debug\netcoreapp3.1\ExcepcionesTrabajo.runtimeconfig.json
+D:\Archivos de programa\Excepciones\ExcepcionesTrabajo\bin\Debug\netcoreapp3.1\ExcepcionesTrabajo.runtimeconfig.dev.json
+D:\Archivos de programa\Excepciones\ExcepcionesTrabajo\bin\Debug\netcoreapp3.1\ExcepcionesTrabajo.dll
+D:\Archivos de programa\Excepciones\ExcepcionesTrabajo\bin\Debug\netcoreapp3.1\ExcepcionesTrabajo.pdb
+D:\Archivos de programa\Excepciones\ExcepcionesTrabajo\obj\Debug\netcoreapp3.1\ExcepcionesTrabajo.csprojAssemblyReference.cache
+D:\Archivos de programa\Excepciones\ExcepcionesTrabajo\obj\Debug\netcoreapp3.1\ExcepcionesTrabajo.AssemblyInfoInputs.cache
+D:\Archivos de programa\Excepciones\ExcepcionesTrabajo\obj\Debug\netcoreapp3.1\ExcepcionesTrabajo.AssemblyInfo.cs
+D:\Archivos de programa\Excepciones\ExcepcionesTrabajo\obj\Debug\netcoreapp3.1\ExcepcionesTrabajo.csproj.CoreCompileInputs.cache
+D:\Archivos de programa\Excepciones\ExcepcionesTrabajo\obj\Debug\netcoreapp3.1\ExcepcionesTrabajo.dll
+D:\Archivos de programa\Excepciones\ExcepcionesTrabajo\obj\Debug\netcoreapp3.1\ExcepcionesTrabajo.pdb
+D:\Archivos de programa\Excepciones\ExcepcionesTrabajo\obj\Debug\netcoreapp3.1\ExcepcionesTrabajo.genruntimeconfig.cache
